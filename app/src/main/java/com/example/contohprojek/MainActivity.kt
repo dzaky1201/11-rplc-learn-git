@@ -6,9 +6,14 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_new)
 
-        // ini adalah comment
-        // saya mau nambah fitur pembayaran
+        //new activty :)
+        //new activty :)
+        //new activty :)
+        //new activty :)
+
+        //wasdwasdwasdwasdwasdwasdwasd
+        //wasdwasdwasdwasdwasdwasdwasd
     }
 }
