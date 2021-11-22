@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // ini adalah comment
+        // saya mau nambah fitur pembayaran
+        // senggol dongg
     }
 }
